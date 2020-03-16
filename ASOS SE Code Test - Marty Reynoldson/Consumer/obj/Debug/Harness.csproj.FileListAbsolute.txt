@@ -1,0 +1,8 @@
+/Users/mareynoldson/Downloads/ASOS_SE_Code_Test/ASOS SE Code Test - [Your Name]/Consumer/bin/Debug/Harness.dll
+/Users/mareynoldson/Downloads/ASOS_SE_Code_Test/ASOS SE Code Test - [Your Name]/Consumer/bin/Debug/Harness.pdb
+/Users/mareynoldson/Downloads/ASOS_SE_Code_Test/ASOS SE Code Test - [Your Name]/Consumer/bin/Debug/App.dll
+/Users/mareynoldson/Downloads/ASOS_SE_Code_Test/ASOS SE Code Test - [Your Name]/Consumer/bin/Debug/App.pdb
+/Users/mareynoldson/Downloads/ASOS_SE_Code_Test/ASOS SE Code Test - [Your Name]/Consumer/obj/Debug/Harness.csprojAssemblyReference.cache
+/Users/mareynoldson/Downloads/ASOS_SE_Code_Test/ASOS SE Code Test - [Your Name]/Consumer/obj/Debug/Harness.csproj.CopyComplete
+/Users/mareynoldson/Downloads/ASOS_SE_Code_Test/ASOS SE Code Test - [Your Name]/Consumer/obj/Debug/Harness.dll
+/Users/mareynoldson/Downloads/ASOS_SE_Code_Test/ASOS SE Code Test - [Your Name]/Consumer/obj/Debug/Harness.pdb

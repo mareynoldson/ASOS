@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{636A1F55-3342-4951-A2D3-D7EF6E2536A7}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.AppTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppTests/CustomerServiceTests.cs">
+    <Files>
+      <File FileName="AppTests/CustomerServiceTests.cs" Line="8" Column="20" IsPinned="True" />
+      <File FileName="App/repository/ICustomerDataAccess.cs" Line="4" Column="41" />
+      <File FileName="App/repository/CustomerDataAccessImpl.cs" Line="1" Column="1" />
+      <File FileName="App/repository/CustomerDataAccess.cs" Line="3" Column="43" />
+      <File FileName="App/repository/CompanyRepository.cs" Line="1" Column="1" />
+      <File FileName="App/repository/ICompanyRepository.cs" Line="1" Column="1" />
+      <File FileName="App/model/Classification.cs" Line="1" Column="1" />
+      <File FileName="App/model/Customer.cs" Line="1" Column="1" />
+      <File FileName="App/model/Company.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="App" expanded="True">
+            <Node name="App" expanded="True">
+              <Node name="model" expanded="True" />
+              <Node name="repository" expanded="True" />
+              <Node name="service" expanded="True" />
+            </Node>
+            <Node name="AppTests" expanded="True">
+              <Node name="CustomerServiceTests.cs" selected="True" />
+            </Node>
+            <Node name="Harness" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="App" expanded="True">
+            <Node name="AppTests" expanded="True">
+              <Node name="AppTests" expanded="True">
+                <Node name="CustomerServiceTests" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Harness PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

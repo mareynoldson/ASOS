@@ -1,0 +1,5 @@
+/Users/mareynoldson/Downloads/ASOS_SE_Code_Test/ASOS SE Code Test - [Your Name]/App/bin/Debug/App.dll
+/Users/mareynoldson/Downloads/ASOS_SE_Code_Test/ASOS SE Code Test - [Your Name]/App/bin/Debug/App.pdb
+/Users/mareynoldson/Downloads/ASOS_SE_Code_Test/ASOS SE Code Test - [Your Name]/App/obj/Debug/App.csprojAssemblyReference.cache
+/Users/mareynoldson/Downloads/ASOS_SE_Code_Test/ASOS SE Code Test - [Your Name]/App/obj/Debug/App.dll
+/Users/mareynoldson/Downloads/ASOS_SE_Code_Test/ASOS SE Code Test - [Your Name]/App/obj/Debug/App.pdb
